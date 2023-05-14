@@ -1,7 +1,7 @@
 {
     "name": "Ultroid UserBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://graph.org/file/031957757a4f6a5191040.jpg",
+    "logo": "https://te.legra.ph/file/00b4ee74badc78c123d1a.jpg",
     "keywords": [
         "Telethon",
         "telegram",
@@ -11,7 +11,7 @@
     ],
     "repository": "https://github.com/TeamUltroid/Ultroid",
     "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TeamUltroid",
+    "success_url": "https://t.me/dausa_123",
     "stack": "container",
     "env": {
         "API_ID": {
